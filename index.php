@@ -4,14 +4,8 @@
         <title>Media Master</title>
         <link rel="stylesheet" href="CSS/main.css" type="text/css" />
     </head>
-    <body ng-clock>
-       <?php
-       
-        echo "Hello World v2";
-       
-       ?> 
+    <body>
        <div ng-controller="mainController">
-           <input type="text" name="testvalue" value="test"/>
            {{test}}
        </div>
     </body>
