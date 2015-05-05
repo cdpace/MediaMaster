@@ -7,7 +7,7 @@
     <body ng-clock>
        <?php
        
-        echo "Hello World";
+        echo "Hello World v2";
        
        ?> 
        <div ng-controller="mainController">
