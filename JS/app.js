@@ -1,1 +1,1 @@
-var mainModule = angular.Module('mediaMaster',[]);
+var mainModule = angular.Module('mainModule',[]);
