@@ -1,0 +1,1 @@
+var mainModule = angular.Module('mediaMaster',[]);
