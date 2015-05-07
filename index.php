@@ -1,23 +1,18 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Media Master</title>
-        <link rel="stylesheet" href="CSS/main.css" type="text/css" />
-        <script type="text/javascript" src="/JS/lib/jquery-1.11.1.min.js"></script>
-        <script type="text/javascript" src="/JS/lib/angular.min.js"></script>
-        <script type="text/javascript" src="/JS/app.js"></script>
-        <script type="text/javascript" src="/JS/Controllers/MainController.js"></script>
-        <script type="text/javascript" src="/JS/services.js"></script>
-        <script type="text/javascript" src="/JS/directives.js"></script>
-    </head>
-    <body ng-app="mainModule">
-       <div ng-controller="MainController">
-           {{3*2}}
-       </div>
-       
-       
-    <!--Scirpts-->
 
+<head>
+    <title>Media Master</title>
+    <link rel="stylesheet" href="CSS/main.css" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.js"></script>
+    <script src="JS/app.js"></script>
+</head>
 
-    </body>
+<body ng-app="myApp">
+    <div ng-controller="MainController">
+        {{ test }}
+    </div>
+    {{3*2}}
+</body>
+
 </html>
