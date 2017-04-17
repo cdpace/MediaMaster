@@ -20,6 +20,7 @@
 
 	issue03
 	issue05
+	issue07
 </body>
 issue06
 </html>
