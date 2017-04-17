@@ -13,6 +13,7 @@
         {{ test }}
     </div>
     {{3*2}}
+	test2
 </body>
 
 </html>
