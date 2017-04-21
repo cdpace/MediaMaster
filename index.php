@@ -13,9 +13,5 @@
         {{ test }}
     </div>
     {{3*2}}
-	issue10
-	issue11
-	issue12
-	issue13
 </body>
 </html>
